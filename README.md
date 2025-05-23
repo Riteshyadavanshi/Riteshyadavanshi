@@ -29,11 +29,11 @@ Currently: Building Microservices & Micro-Frontends
 timeline
     title Ritesh's Dev Journey
     2022 : Started Web Development
-    2023 : Built Canteen Management System (QR-based)
+    2023 : Joined pawfriend.in as a Full Stack Dev
     2024 : Created Shopholic — full eCommerce system
-    2024 : Joined pawfriend.in as a Full Stack Dev
+    2024 : Built Canteen Management System (QR-based)
     2025 : Learning System Design + Microservices
-    2025 : Preparing for SDE Role at Google 🚀
+     
 ```
 
 ---
@@ -57,7 +57,6 @@ timeline
 | 🛒 [Shopholic](https://github.com/riteshyadavanshi/shopholic) | Full-stack eCommerce site with admin, payment, subcategories |
 | 🍴 [Canteen System](https://github.com/riteshyadavanshi/canteen-management) | QR-based ordering + kitchen dashboard |
 | 🧠 [QR Pendant](https://github.com/riteshyadavanshi/qr-pendant) | For specially-abled emergency data |
-| 🧩 [Micro Frontend System](https://github.com/riteshyadavanshi/microfrontend-app) | Next.js MFE with reverse proxy and server actions |
 
 ---
 
@@ -72,7 +71,7 @@ timeline
 
 - 🌐 Portfolio: [riteshdev.vercel.app](https://riteshyadavanshi.github.io/portfolio/)
 - 💼 LinkedIn: [ritesh-yadav](https://www.linkedin.com/in/ritesh-yadav-560496247/)
-- 📬 Email: riteshyadav.dev@gmail.com
+- 📬 Email: riteshyadav4122@gmail.com
 
 ---
 
