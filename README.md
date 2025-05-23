@@ -1,4 +1,8 @@
-# <div align="center">🌟 Welcome to Ritesh's Digital Universe 🌟</div>
+# <div align="center">👋 Hello , I am Ritesh Yadav!
+
+> 🚀 Full Stack Developer ·  
+> Creating magic with code, one project at a time.
+</div>
 
 <div align="center">
   
